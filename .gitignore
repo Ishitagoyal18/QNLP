@@ -1,0 +1,5 @@
+test
+files
+*.pyc
+*.tar.gz
+*.DS_Store
